@@ -1,0 +1,29 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'josefin sans', sans-serif;
+background-color: black;    
+    
+}
+.f1{
+    color: whitesmoke;
+  padding: 15px;
+ display: flex;
+  margin: 150px 10px;
+  font-size: 20px; 
+}
+
+span{
+    color: aqua;
+}
+.cs{
+    padding-top: 13px;
+}
+.cl{
+    color: whitesmoke;
+    padding: 15px;  
+    margin-top: 50px;
+    padding-left: 700px;  
+    
+}
